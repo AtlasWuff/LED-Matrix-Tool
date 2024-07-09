@@ -1,0 +1,26 @@
+[BASIC]
+
+# Naming style matching correct argument names.
+argument-naming-style=camelCase
+
+# Regular expression matching correct argument names. Overrides argument-
+# naming-style. If left empty, argument names will be checked with the set
+# naming style.
+#argument-rgx=
+
+# Naming style matching correct attribute names.
+attr-naming-style=camelCase
+# Naming style matching correct function names.
+function-naming-style=camelCase
+# Naming style matching correct method names.
+method-naming-style=camelCase
+
+# Regular expression matching correct method names. Overrides method-naming-
+# style. If left empty, method names will be checked with the set naming style.
+#method-rgx=
+
+# Naming style matching correct module names.
+module-naming-style=camelCase
+
+# Naming style matching correct variable names.
+variable-naming-style=camelCase
